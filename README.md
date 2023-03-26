@@ -32,7 +32,8 @@ Here you will find a list of folders contained in the repository, along with a s
     - **Prepared data:** Includes different PKL file (different versions of the dataframe, see "Population flow" PDF for more informations). 
       
       The last version is also available in csv and xlsx (I needed it to create visualizations on Tableau).
-  - **03. Scripts:** Contains all Python scripts (Jupyter notebooks). Within my scripts you can find all data manipulations described in the _"Skills"_ section below.     
+  - **03. Scripts:** Contains all Python scripts (Jupyter notebooks). 
+    Within my scripts you can find all data manipulations described in the _"Skills"_ section below.     
     Please note that script number 3 had to be compressed in a rar file because of the max file size limitation of GitHub.
   - **04. Visualizations:** Contains some of the charts and visualizations created in Python while carrying out the project. 
     
