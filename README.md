@@ -22,13 +22,15 @@ Here you will find a list of folders contained in the repository, along with a s
 
 - **CO2 emissions analysis:** the main folder. It contains 5 sub folders:
   - **01. Documentation:** Contains the following PDF files:
-    - sdshdsudsd alora
-  - **03. Scripts:** Contains all Python scripts (Jupyter notebooks). Within my scripts you can find all data manipulations described in the _"Skills"_ section below.
-  - **04. Analisys/Visualizations:** Contains all the charts and visualizations created while carrying out the project.
-  - **05. Sent to client:** Contains an excel report that summarize the population flow, all wrangling steps, consistency checks, columns derived and answers to the key questions (the analysis' main goal).
-
-**Note:** Section _02._ is missing because it contained the datasets used, both _Original data_ (raw) and _Prepared Data_ (manipulated).
-Since files size was higher than 25 MB, it was impossible to upload them.
+    - **A6 Project brief:** Criteria and limitations of the project. Guidelines provided by Career Foundry.
+    - **Exploratory data analysis:** A brief report including the wrangling steps, the consistency checks, the data dictionary and my initial research questions.
+    - **Population flow:** Here I describe the shape and the main differences between the different versions of the dataframe (See next folder).
+  - **02. Data:* Contains two subfolders:
+    - **Original data:** Includes the original csv file (emissions.csv) and two JSON files used for geospatial analysis. One of the two had to compressed in a rar file because of the max file size limitation of GitHub.
+    - **Prepared data:** Includes different PKL file (different versions of the dataframe, see "Population flow" PDF for more informations). The last version is also available in csv and xlsx (I needed it to create visualizations on Tableau).
+  - **03. Scripts:** Contains all Python scripts (Jupyter notebooks). Within my scripts you can find all data manipulations described in the _"Skills"_ section below. Please note that script number 3 had to be compressed in a rar file because of the max file size limitation of GitHub.
+  - **04. Visualizations:** Contains some of the charts and visualizations created in Python while carrying out the project. Actually, most of visualizations were created in the ending phase of the project, using Tableau.
+  - **05. Deliverables:** Contains the final presentation in format Tableau Packaged Workbook. You can see the datastory directly on Tableu Public, clicking [here](https://public.tableau.com/app/profile/simone.calabro/viz/CO2emissionsanalysis-ProjectbySimoneCalabro/Datastory)
 
 ## Dataset:
 As explained above, Instacart made their data open source.
