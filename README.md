@@ -50,14 +50,15 @@ I downloaded it on Kaggle. It is composed by different datasets pulled from the 
 
 Below you can find links to download the CO2 emissions dataset, the time series dataset (only used in script 6) and the JSON file used for Geospatial Analysis.
 
-[Yearly CO2 Emission by each Countrys Energy Con/Prod, GDP, Population and more](https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population?resource=download)
+[Yearly CO2 Emission, Energy Con/Prod, GDP, Population and more by Countries](https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population?resource=download)
 
 [Carbon Dioxide (CO2) Emmissions - USA](https://data.nasdaq.com/data/BP/C02_EMMISSIONS_USA-carbon-dioxide-co2-emmissions-usa)
 
 [Country Polygons as GeoJSON](https://datahub.io/core/geo-countries#data)
 
 ## Deliverables:
-Placeholder
+The most relevant results of my analysis were all packed together in a Tableau Datastory. <br>
+If you're interested in seeing my results, click [here](https://public.tableau.com/app/profile/simone.calabro/viz/CO2emissionsanalysis-ProjectbySimoneCalabro/Datastory).
 
 ## Tools:
 - Anaconda
