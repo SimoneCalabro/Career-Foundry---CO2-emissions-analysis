@@ -5,15 +5,17 @@ The project was part of the Data Analytics program I attended at Career Foundry.
 
 All analysis have been performed using **Python** (Anaconda navigator plus Jupyter).
 
-WIP!!! (do not read)
-
 ## Project overview:
 
-I covered the role of a data analyst working for an existing company, Instacart, an online grocery store that operates through an app.
+This project was different from the previous, because I had the freedom to source myself the dataset and define the key questions to analyze during the development.
 
-The goal was to uncover more informations about _sales patterns_ (such as, busiest day and busiest hours from an order number perspective) and _customers purchasing behaviour_ (segmentation according to age, income,  regions, and other variables).
+I decided to use a dataset that includes measurements of CO2 emissions, energy consumption, energy production, GDP, Population, divided by year, Country and different energy types (such as, coal, natural gas, petroleum, nuclear and renewable).
 
-**Note:** Instacart is a real company that’s made their data available online. However, sensitive contents (such as prices and customers information) have been fabricated for the purpose of this project.
+My goal was to investigate air pollution, focusing primarly on:
+
+- Relationships between CO2 emissions and other variables
+- Geospatial analysis (which Countries produce more CO2 emissions on average)
+- Differences between energy source (which of them are more polluting and more consumed by Countries)
 
 ## Folders:
 Here you will find a list of folders contained in the repository, along with a short description.
