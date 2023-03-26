@@ -22,7 +22,7 @@ Here you will find a list of folders contained in the repository, along with a s
 
 - **CO2 emissions analysis:** the main folder. It contains 5 sub folders:
   - **01. Documentation:** Contains the following PDF files:
-   - sdshdsudsd 
+    - sdshdsudsd alora
   - **03. Scripts:** Contains all Python scripts (Jupyter notebooks). Within my scripts you can find all data manipulations described in the _"Skills"_ section below.
   - **04. Analisys/Visualizations:** Contains all the charts and visualizations created while carrying out the project.
   - **05. Sent to client:** Contains an excel report that summarize the population flow, all wrangling steps, consistency checks, columns derived and answers to the key questions (the analysis' main goal).
