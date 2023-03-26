@@ -58,7 +58,7 @@ Below you can find links to download the CO2 emissions dataset, the time series 
 
 ## Deliverables:
 The most relevant results of my analysis were all packed together in a Tableau Datastory. <br>
-If you're interested in seeing my results, click [here](https://public.tableau.com/app/profile/simone.calabro/viz/CO2emissionsanalysis-ProjectbySimoneCalabro/Datastory).
+If you're interested in seeing my results, click [here](https://public.tableau.com/app/profile/simone.calabro/viz/CO2emissionsanalysis-ProjectbySimoneCalabro/Datastory) (Please open it in full screen!).
 
 ## Tools:
 - Anaconda
@@ -74,6 +74,13 @@ Here you can find a list of all libraries installed and imported into my scripts
 - matplotlib
 - seaborn
 - scipy
+- folium
+- json
+- sklearn
+- pylab
+- quandl
+- statsmodels
+- datetime
 
 ## Skills:
 A summary of what I applied:
