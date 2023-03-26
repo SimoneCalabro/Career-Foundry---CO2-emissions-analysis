@@ -30,22 +30,17 @@ Here you will find a list of folders contained in the repository, along with a s
   - **02. Data:** Contains two subfolders:
     - **Original data:** Includes the original csv file (emissions.csv) and two JSON files used for geospatial analysis. <br>
       One of the two had to compressed in a rar file because of the max file size limitation of GitHub.
-    - **Prepared data:** Includes different PKL file (different versions of the dataframe, see "Population flow" PDF for more informations). 
-      
+    - **Prepared data:** Includes different PKL file (different versions of the dataframe, see "Population flow" PDF for more informations). <br>
       The last version is also available in csv and xlsx (I needed it to create visualizations on Tableau).
   
-  - **03. Scripts:** Contains all Python scripts (Jupyter notebooks). 
-    
-    Within my scripts you can find all data manipulations described in the _"Skills"_ section below.     
-    
+  - **03. Scripts:** Contains all Python scripts (Jupyter notebooks). <br>
+    Within my scripts you can find all data manipulations described in the _"Skills"_ section below. <br> 
     Please note that script number 3 had to be compressed in a rar file because of the max file size limitation of GitHub.
   
-  - **04. Visualizations:** Contains some of the charts and visualizations created in Python while carrying out the project. 
-    
+  - **04. Visualizations:** Contains some of the charts and visualizations created in Python while carrying out the project. <br>
     Actually, most of visualizations were created in the ending phase of the project, using Tableau.
   
-  - **05. Deliverables:** Contains the final presentation in format Tableau Packaged Workbook.
-    
+  - **05. Deliverables:** Contains the final presentation in format Tableau Packaged Workbook. <br>
     You can see the datastory directly on Tableu Public, clicking [here](https://public.tableau.com/app/profile/simone.calabro/viz/CO2emissionsanalysis-ProjectbySimoneCalabro/Datastory)
 
 ## Dataset:
@@ -64,6 +59,7 @@ Below you can find a link to download the orders dataset, the customers dataset 
 ## Tools:
 - Anaconda
   - Jupyter
+- Tableau
 
 ## Libraries:
 Here you can find a list of all libraries installed and imported into my scripts:
