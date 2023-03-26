@@ -41,7 +41,7 @@ Here you will find a list of folders contained in the repository, along with a s
     Actually, most of visualizations were created in the ending phase of the project, using Tableau.
   
   - **05. Deliverables:** Contains the final presentation in format Tableau Packaged Workbook. <br>
-    You can see the datastory directly on Tableu Public, clicking [here](https://public.tableau.com/app/profile/simone.calabro/viz/CO2emissionsanalysis-ProjectbySimoneCalabro/Datastory)
+    You can see the datastory directly on Tableu Public, clicking by [here](https://public.tableau.com/app/profile/simone.calabro/viz/CO2emissionsanalysis-ProjectbySimoneCalabro/Datastory).
 
 ## Dataset:
 As explained above, Instacart made their data open source.
