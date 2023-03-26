@@ -27,9 +27,8 @@ Here you will find a list of folders contained in the repository, along with a s
     - **Exploratory data analysis:** A brief report including the wrangling steps, the consistency checks, the data dictionary and my initial research questions.
     - **Population flow:** Here I describe the shape and the main differences between the different versions of the dataframe (see next folder).
   
-  - **02. Data:* Contains two subfolders:
-    - **Original data:** Includes the original csv file (emissions.csv) and two JSON files used for geospatial analysis. 
-      
+  - **02. Data:** Contains two subfolders:
+    - **Original data:** Includes the original csv file (emissions.csv) and two JSON files used for geospatial analysis. <br>
       One of the two had to compressed in a rar file because of the max file size limitation of GitHub.
     - **Prepared data:** Includes different PKL file (different versions of the dataframe, see "Population flow" PDF for more informations). 
       
