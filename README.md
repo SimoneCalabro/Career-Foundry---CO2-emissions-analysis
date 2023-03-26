@@ -5,8 +5,9 @@ The project was part of the Data Analytics program I attended at Career Foundry.
 
 All analysis have been performed using **Python** (Anaconda navigator plus Jupyter).
 
+WIP!!! (do not read)
+
 ## Project overview:
-[![image](https://www.linkpicture.com/q/Picture1.jpg)](https://www.linkpicture.com/view.php?img=LPic640c7ff6b7d0f2097178861)
 
 I covered the role of a data analyst working for an existing company, Instacart, an online grocery store that operates through an app.
 
