@@ -86,14 +86,15 @@ Here you can find a list of all libraries installed and imported into my scripts
 A summary of what I applied:
 
 - Cleaning data
-  - Data wrangling (renaming columns, dropping columns, transposing, changing columns datatype)
+  - Data wrangling (renaming columns, dropping columns, changing columns datatype)
   - Consistency checks (handling missing values, duplicates and mixed-type data)
-- Creating a data dictionary
 - Creating a Subset
 - Calculating descriptive statistics
+- Exploratory data analysis (correlation heatmaps, scatterplots, pairplots, categorical plots)
 - Grouping and aggregating data
-- Creating crosstabs
-- Deriving new variables (if-statements, loc function and for-loops)
-- Creating visualizations (histograms, bar charts, stacked bar charts, line charts, pie charts, scatterplots)
-- Merging two dataframes (concatenating, append, join merge)
+- Deriving new variables (loc function)
+- Defining functions
+- Geospatial analysis (using JSON file)
+- Supervised and unsupervised machine learning (Linear regression and clustering)
+- Time series analysis
 - Exporting dataframes (both in CSV and PKL format)
