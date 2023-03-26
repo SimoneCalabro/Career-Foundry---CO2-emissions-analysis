@@ -57,6 +57,9 @@ Below you can find a link to download the orders dataset, the customers dataset 
 [Data dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
 ## Tools:
+Placeholder
+
+## Tools:
 - Anaconda
   - Jupyter
 - Tableau
