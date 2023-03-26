@@ -44,17 +44,17 @@ Here you will find a list of folders contained in the repository, along with a s
     You can see the datastory directly on Tableu Public, clicking by [here](https://public.tableau.com/app/profile/simone.calabro/viz/CO2emissionsanalysis-ProjectbySimoneCalabro/Datastory).
 
 ## Dataset:
-As explained above, Instacart made their data open source.
+The dataset is publicly disclosed open data collected by the US Energy Administration.
 
-Keep in mind that sensitive contents (such as prices and customers information) have been fabricated for the purpose of this project.
+I downloaded it on Kaggle. It is composed by different datasets pulled from the US Energy Information Administration, and then joined them all together into one dataset.
 
-Below you can find a link to download the orders dataset, the customers dataset and a Github data dictionary containing a brief description of the variables.
+Below you can find links to download the CO2 emissions dataset, the time series dataset (only used in script 6) and the JSON file used for Geospatial Analysis.
 
-[The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
+[Yearly CO2 Emission by each Countrys Energy Con/Prod, GDP, Population and more](https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population?resource=download)
 
-[Customers data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+[Carbon Dioxide (CO2) Emmissions - USA](https://data.nasdaq.com/data/BP/C02_EMMISSIONS_USA-carbon-dioxide-co2-emmissions-usa)
 
-[Data dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+[Country Polygons as GeoJSON](https://datahub.io/core/geo-countries#data)
 
 ## Deliverables:
 Placeholder
