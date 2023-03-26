@@ -24,9 +24,10 @@ Here you will find a list of folders contained in the repository, along with a s
   - **01. Documentation:** Contains the following PDF files:
     - **A6 Project brief:** Criteria and limitations of the project. Guidelines provided by Career Foundry.
     - **Exploratory data analysis:** A brief report including the wrangling steps, the consistency checks, the data dictionary and my initial research questions.
-    - **Population flow:** Here I describe the shape and the main differences between the different versions of the dataframe (See next folder).
+    - **Population flow:** Here I describe the shape and the main differences between the different versions of the dataframe (see next folder).
   - **02. Data:* Contains two subfolders:
-    - **Original data:** Includes the original csv file (emissions.csv) and two JSON files used for geospatial analysis. One of the two had to compressed in a rar file because of the max file size limitation of GitHub.
+    - **Original data:** Includes the original csv file (emissions.csv) and two JSON files used for geospatial analysis.
+      One of the two had to compressed in a rar file because of the max file size limitation of GitHub.
     - **Prepared data:** Includes different PKL file (different versions of the dataframe, see "Population flow" PDF for more informations). The last version is also available in csv and xlsx (I needed it to create visualizations on Tableau).
   - **03. Scripts:** Contains all Python scripts (Jupyter notebooks). Within my scripts you can find all data manipulations described in the _"Skills"_ section below. Please note that script number 3 had to be compressed in a rar file because of the max file size limitation of GitHub.
   - **04. Visualizations:** Contains some of the charts and visualizations created in Python while carrying out the project. Actually, most of visualizations were created in the ending phase of the project, using Tableau.
